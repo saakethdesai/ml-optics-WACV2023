@@ -48,9 +48,6 @@ output = np.array(data['img_result'], dtype='float32')
 #filter relevant variables
 #idx = [1, 2, 8]
 inputs = raw_inputs#[:, idx]
-print (inputs)
-STOP
-
 output = output.reshape((-1, 1)) 
 dataset = np.concatenate((inputs, output), axis=1) 
 print (inputs.shape, output.shape, dataset.shape)
