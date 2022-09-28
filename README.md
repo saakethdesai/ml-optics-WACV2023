@@ -1,6 +1,6 @@
 # ml-optics-WACV2023
 
-This repository contains code and some associated data from our WACV 2023 paper titled "". A link to the paper can be found here: <url>
+This repository contains code and some associated data from our WACV 2023 paper titled "Learning incoherent light emission steering from metasurfaces using generative models". A link to the paper can be found here: <url>
 
 The repository contains the following files
 
